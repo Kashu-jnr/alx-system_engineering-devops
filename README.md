@@ -1,1 +1,1 @@
-Task 0. where am I?
+Display cuurent directory contents
